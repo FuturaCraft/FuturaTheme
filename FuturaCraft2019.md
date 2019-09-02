@@ -1,21 +1,21 @@
 ---
-title: {Theme Name}
-author: {Author Name}
+title:FuturaCraft2019
+author:Guicolo
 description: A SHORT Description
 download:
 maintainer_name:
-contributor_name:
-github_profile_url: https://github.com/{Author Name}/
-github_source_url:
+contributor_name:Guicolo
+github_profile_url: https://github.com/FuturaCraft/
+github_source_url:https://github.com/FuturaCraft/FuturaTheme
 github_issue_url:
-discord_server:
+discord_server:https://discord.gg/erPJuw3
 demo: https://raw.githack.com
-thumbnail:
+thumbnail:https://github.com/FuturaCraft/FuturaTheme/blob/master/2019-09-01_22.52.35.pn
 previews: [Direct link to image, Direct link to image]
-status:
-auto:
+status:updated
+auto:true
 snippet:
-featured: 
+featured: true
 style: dark
 tags: []
 ghcommentid: 441
